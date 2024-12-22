@@ -1,4 +1,7 @@
 # Rules And Scripts
+## 更新内容
+
+Rickey 添加 WroldCoin Surge 规则
 
 ## 前言
 
